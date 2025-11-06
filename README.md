@@ -1,5 +1,8 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR 
+
+NAME : RAMPRABHU R
+REG : 212222040129
 
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
@@ -48,31 +51,29 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-<img width="1030" height="906" alt="image" src="https://github.com/user-attachments/assets/8e2c29cb-1a20-4109-a648-ab9c78803950" />
+
+![WhatsApp Image 2025-11-06 at 10 19 55_afc685cf](https://github.com/user-attachments/assets/49ca7ca5-da36-41bf-94ff-70728c2328d0)
+![WhatsApp Image 2025-11-06 at 10 24 56_426afec3](https://github.com/user-attachments/assets/0d05adcd-21e5-4bb5-bf6f-e5286c4b5d63)
+
+![WhatsApp Image 2025-11-06 at 10 19 56_69d350f9](https://github.com/user-attachments/assets/a908fd2c-c4b3-42f6-8d7a-ffa4a1a29023)
+
+![WhatsApp Image 2025-11-06 at 10 19 58_3fd09662](https://github.com/user-attachments/assets/d009da73-402c-415a-98ab-b6cd53449027)
+
+![WhatsApp Image 2025-11-06 at 10 19 58_d82e5a2e](https://github.com/user-attachments/assets/bf3c9505-edfd-4d27-be2a-b5e04a48783a)
 
 
-<img width="1033" height="818" alt="image" src="https://github.com/user-attachments/assets/76931af9-d95e-451e-b611-42e61fc29aa7" />
+![WhatsApp Image 2025-11-06 at 10 19 59_ad06563c](https://github.com/user-attachments/assets/5bfffe7f-98a1-4c3d-a3fc-bfe8428f8345)
 
-
-
-![EXP 2 1](https://github.com/user-attachments/assets/760cf3ad-e9d3-42ed-b06d-f1b6dd53aff1)
-
-
-![EXP 2 2](https://github.com/user-attachments/assets/9d453b9d-3fd4-4e32-898f-32bad4b92630)
-
-
-![EXP 2 3](https://github.com/user-attachments/assets/28970a71-94b8-4354-9df0-b45f2ee14e86)
-
-
-![EXP 2 4](https://github.com/user-attachments/assets/66386e02-5888-493a-b591-395299038c1f)
+![WhatsApp Image 2025-11-06 at 10 20 00_524dc9e7](https://github.com/user-attachments/assets/3febec91-9777-4c45-ba8c-8285b68fc97c)
 
 
 
 
 
+## output
 
-
-
+<img width="478" height="273" alt="image" src="https://github.com/user-attachments/assets/1adc38aa-b01e-4aaa-a1fc-9b278ce57b63" />
+<img width="478" height="373" alt="image" src="https://github.com/user-attachments/assets/407e7184-072e-47bf-b21e-d83871ddefc8" />
 
 
 
